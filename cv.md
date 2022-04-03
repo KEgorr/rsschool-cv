@@ -14,4 +14,13 @@
  * **GIT**
  * **VS Code**
  * **PyCharm**
-
+## Code example
+Create a function that takes 2 integers in form of a string as an input, and outputs the sum (also as a string):
+```javascript
+function sumStr(a,b) {
+ let num_a = Number(a);
+ let num_b = Number(b);
+ let c=num_a+num_b;
+ return String(c);
+}
+```
