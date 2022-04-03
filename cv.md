@@ -24,3 +24,17 @@ function sumStr(a,b) {
  return String(c);
 }
 ```
+## Work experience:
+Nothing yet
+
+## Education
+* **University**: SMTU
+* **Courses**:
+  * [JS video course](https://www.youtube.com/watch?v=CxgOKJh4zWE&t=5556s)
+  * [Modern JavaScript tutorial](https://learn.javascript.ru/)
+  * [HTML and CSS video course](https://www.youtube.com/watch?v=W4MIiV4nZDY&t=2s)
+  * [HTML and CSS online courses](https://ru.code-basics.com/)
+
+## Languages
+* **English:** (B2) Intermediate according to [EFSET](https://www.efset.org/ru/)
+* **Russian:** Native
