@@ -43,10 +43,10 @@ footer {
     display: flex;
 }
 
-pre {
-    margin: 0;
-}
-
 .aboutMe {
     margin-top: 20px;
+}
+
+pre {
+    margin: 0;
 }
